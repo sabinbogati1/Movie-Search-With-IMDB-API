@@ -1,0 +1,25 @@
+.titleBar{
+
+  background-color: #000;
+  display: block;
+  color: #fff;
+}
+
+
+.searchInput{
+
+  font-size: 24;
+  display: block;
+  width: 100%;
+  padding-top: "80";
+
+
+
+
+  /* fontSize:24,
+  display:"block",
+  width:"100%",
+  paddingTop:8,
+  paddingBottom:8,
+  paddingLeft:16 */
+}
